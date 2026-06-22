@@ -1,0 +1,16 @@
+# Generated files
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary
+*.tmp
+*.log
